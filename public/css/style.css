@@ -23,6 +23,10 @@ nav>.navbar-collapse>ul>li>a{
 /* background-color: blue !important; */
 }
 
+.navbar-collapse{
+    padding-right: 50px;
+}
+
 nav>.navbar-collapse>ul>li>a:hover{
     color: white !important;
     font-size: 17px;
@@ -72,6 +76,49 @@ background-color: yellowgreen !important;
     min-height: 550px;
 
 }
+
+.banner-services{
+    background-image: url(../images/bg_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    min-height: 550px;
+}
+
+.banner-team{
+    background-image: url(../images/bg_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    min-height: 550px;
+}
+
+.banner-contact{
+    background-image: url(../images/bg_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    min-height: 550px;
+}
+
+.banner-event{
+    background-image: url(../images/bg_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    min-height: 550px;
+}
+
+
+
 
 /* @mixin gradient-background(){
 	background: rgba(106,0,255,1);
